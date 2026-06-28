@@ -1,0 +1,18 @@
+# virtual environment
+.venv/
+
+# dataset
+flickr30k-dataset/
+flickr30k-dataset.zip
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# outputs pesanti
+*.npz
+*.h5
+*.ckpt
