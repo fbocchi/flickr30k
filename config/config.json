@@ -1,6 +1,6 @@
 {
   "max_len": 20,
-  "vocab_size": 11257,
+  "vocab_size": 18028,
   "message": "adapt vec to training captions before usage",
   "vec_config": {
     "name": "text_vectorization",
@@ -25,6 +25,6 @@
     "vocabulary": null,
     "idf_weights": null,
     "encoding": "utf-8",
-    "vocabulary_size": 11257
+    "vocabulary_size": 18028
   }
 }
